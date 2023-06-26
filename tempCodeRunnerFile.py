@@ -1,0 +1,1 @@
+img=cv2.divide(img1, 2.5)
